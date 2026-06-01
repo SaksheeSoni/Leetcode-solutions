@@ -16,6 +16,7 @@ All asteroids are destroyed.
 Example 2:
 Input: mass = 5, asteroids = [4,9,23,4]
 Output: false
+
 Explanation: 
 The planet cannot ever gain enough mass to destroy the asteroid with a mass of 23.
 After the planet destroys the other asteroids, it will have a mass of 5 + 4 + 9 + 4 = 22.
